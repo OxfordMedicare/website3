@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Palatino Linotype', serif;
+  background-color: #0A0F3C;
+  color: white;
+}
